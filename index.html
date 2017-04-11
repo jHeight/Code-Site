@@ -4,11 +4,14 @@
     <title> WIP </title>
     <meta charset="UTF-8" />
     <style>
-      #sorry-banner {
+      .sorry-banner {
         visible: true;
       }
-      #main-content {
+      .main-content {
         visible: false;
+      }
+      .float-right {
+        float: right;
       }
       
     </style>
@@ -16,7 +19,18 @@
   <body>
     <div id="main-content">
       <div id="nav">
-        <h4 id="nav-fresh"><a href="//code.gvsg.cf" title="Home">Home</a>   <a href="/projects" title="Projects">Projects</a>   <a href="/hidden" title="  ">  </a></h4>
+        <h4 id="nav-fresh"><a href="//code.gvsg.cf" title="Home">Home</a>   <a href="/projects" title="Projects">Projects</a></h4>
+      </div>
+      <div id="fresh">
+        <div id="slideshow">
+          <div id="banner">
+            <iframe src="//code.gvsg.cf/banner.swf" width="100%" height="500"><img src="//code.gvsg.cf/img1.png" width="100%" height="500"></iframe>
+          </div>
+        </div>
+        <div id="content">
+            <iframe id="float-right" src="//code.gvsg.cf/slideshow1.swf" width="600" height="300"><img src="//code.gvsg.cf/img1.jpg" width="600" height="300"></iframe>
+            <h4 id="content-header">We Innovate. Not Recreate.</h4>
+        </div>
       </div>
     </div>
     <div id="title-header">
