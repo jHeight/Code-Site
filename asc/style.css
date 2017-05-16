@@ -1,46 +1,45 @@
 body {
-				font-family: Ubuntu, sans-family;
-			}
-		
-			.pc {
-				visibility: visible;
-			}
+	font-family: Ubuntu, sans-family;
+}
+
+.pc {
+	visibility: visible;
+}
 			
-			.mobile {
-				display: none;
-			}
+.mobile {
+	display: none;
+}
 			
-			.sorry {
-				text-align: center;
-				background-color: #febd69;
-			}
+.sorry {
+	text-align: center;
+	background-color: #febd69;
+}
 			
-			.header {
-				background-color: #febd69;
-			}
+.header {
+	background-color: #febd69;
+}
 			
-			.button {
-				background-color: #232f3e;
-				border-radius: 12px;
-				border: 1px solid #febd69;
-			}
+.button {
+	background-color: #232f3e;
+	border-radius: 12px;
+	border: 1px solid #febd69;
+}
 			
-			.title {
-				font-family: Ubuntu, sans-family;
-				text-align: center;
-			}
+.title {
+	font-family: Ubuntu, sans-family;
+	text-align: center;
+}
 			
-			.download {
-				background-color: #febd69;
-				text-align: center;
-				float: center;
-				align: center;
-			}
+.download {
+	background-color: #febd69;
+	text-align: center;
+	float: center;
+}
 			
-			.official-foot {
-				background-color: #232f3e;
-			}
+.official-foot {
+	background-color: #232f3e;
+}
 			
-			.footer-text {
-				text-align: right;
-			}
+.footer-text {
+	text-align: right;
+}
