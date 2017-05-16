@@ -2,44 +2,44 @@ body {
 	font-family: Ubuntu, sans-family;
 }
 
-.pc {
+#pc {
 	visibility: visible;
 }
 			
-.mobile {
+#mobile {
 	display: none;
 }
 			
-.sorry {
+#sorry {
 	text-align: center;
 	background-color: #febd69;
 }
 			
-.header {
+#header {
 	background-color: #febd69;
 }
 			
-.button {
+#button {
 	background-color: #232f3e;
 	border-radius: 12px;
 	border: 1px solid #febd69;
 }
 			
-.title {
+#title {
 	font-family: Ubuntu, sans-family;
 	text-align: center;
 }
 			
-.download {
+#download {
 	background-color: #febd69;
 	text-align: center;
 	float: center;
 }
 			
-.official-foot {
+#official-foot {
 	background-color: #232f3e;
 }
 			
-.footer-text {
+#footer-text {
 	text-align: right;
 }
